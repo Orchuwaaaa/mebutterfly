@@ -1,0 +1,110 @@
+.deb{
+    color: darkslategray;
+    font-size: 50px;
+    font-weight: 700;
+
+}
+.num{
+    color: darkslategray;
+    font-size: 30px;
+    font-weight: 700;
+}
+.ment{
+    background-image: url('img/Butterfly/assets/img/counts-bg.jpg');
+}
+.mee{
+    color: darkslategray;
+}
+.rat{
+    border: 1px solid black;
+    padding: 15px 10px;
+}
+.rat img{
+    filter: grayscale(100%);
+}
+.rat img:hover{
+    filter: grayscale(0%);
+    width: 35%;
+}
+.goat{
+    background-color: rgb(204, 224, 233);
+}
+.cow{
+    color: rgb(19, 49, 49);
+    font-size: 40px;
+    font-weight: 700;
+}
+.meow{
+    color: rgb(15, 49, 49);
+    font-size: 15px;
+    font-weight: normal;
+}
+.car{
+    color: rgb(11, 48, 48);
+    font-size: 15px;
+    font-weight: normal;
+}
+.moon{
+    background-image: image url('img/Butterfly/assets/img/cta-bg.jpg');
+}
+.son{
+    background-color: rgb(204, 225, 233);
+}
+.pot{
+    color: rgb(15, 49, 49);
+}
+.milk{
+    font-size: large;
+}
+.bg-debby{
+    background-image: url('img/Butterfly/assets/img/about.jpg');
+    background-position: center;
+
+}
+.fa-wifi:hover{
+    background: deepskyblue;
+    color: white;
+    padding: 15px;
+    border-radius: 50%;
+}
+.fa-wifi{
+    border: 2px solid deepskyblue;
+    color: deepskyblue;
+    background: white;
+    border-radius: 50px;
+    padding: 15px;
+}
+.bg-bg{
+    background: linear-gradient(rgba(255,255,255,0.8),rgba(255,255,255,0.8)),url('img/Butterfly/assets/img/counts-bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.fa-play:hover{
+    background: deepskyblue;
+    color: white;
+    padding: 15px;
+    border-radius: 50%;
+}
+.fa-play{
+     margin: 15rem;
+     border: 2px solid deepskyblue;
+     color: deepskyblue;
+     background: white;
+     border-radius: 50px;
+     padding: 15px;
+}
+
+.debs{
+    position: relative;
+    overflow: hidden;
+    transition: all 0.5s ease;
+}
+.debs:hover{
+    transform: translateY(-7px);
+}
+
+.fa-money{
+    position: absolute;
+    left: -.5rem;
+    top: 3rem;
+}
